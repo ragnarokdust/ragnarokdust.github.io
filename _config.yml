@@ -27,21 +27,21 @@ nightMode: true
 
 # Comments 
 comments:
-  disqus: false
-  disqus_url: 'https://liaokeyu.disqus.com/embed.js'
+  disqus: true
+  disqus_url: 'https://ragnarokdust.disqus.com/embed.js'
 
 # MathJax 
 mathjax: true
 
 # Share
-social-share: true
+social-share: false
 social-share-items: ['github']
 
 # theme color 
 theme-color: 'default'  # pink or default
 
 # Post header background patterns (when the post no cover): circuitBoard, overlappingCircles, food, glamorous, ticTacToe, seaOfClouds
-postPatterns: 'food'
+postPatterns: 'glamorous'
 
 # SNS settings 
 # url: email, weibo, zhihu, twitter, instagram, juejin, github, douban, facebook, dribble, uicn, jianshu, medium, linkedin
