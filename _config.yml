@@ -6,7 +6,7 @@ url: 'ragnarokdust.github.io'
 baseurl: ''
 
 nav:
-  home: '/'
+  archive: '/'
   tags: '/tags.html'
 
 # Footer
@@ -34,8 +34,8 @@ comments:
 mathjax: true
 
 # Share
-social-share: false
-social-share-items: ['github']
+social-share: true
+social-share-items: ['twitter', 'facebook', 'linkedin']
 
 # theme color 
 theme-color: 'default'  # pink or default
@@ -64,7 +64,7 @@ kramdown:
   input: GFM
 
 # RSS
-RSS: false
+RSS: true
 
 # Permalink
 # See: https://github.com/kaeyleo/jekyll-theme-H2O/issues/35
